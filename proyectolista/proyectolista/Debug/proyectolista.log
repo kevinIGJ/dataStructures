@@ -1,0 +1,5 @@
+﻿  Lista.cpp
+  proyectolista.cpp
+c:\users\kevin\desktop\proyectolista\proyectolista\proyectolista.cpp(8): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código...
+  proyectolista.vcxproj -> C:\Users\kevin\Desktop\proyectolista\Debug\proyectolista.exe
